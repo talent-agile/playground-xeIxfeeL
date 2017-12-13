@@ -23,7 +23,7 @@ class Program
         PassByReference(ref arrayList); 
         // What should be the output of below line ??
         Console.WriteLine(arrayList[1]); 
-        Console.Read();
+       
     } 
     private static void PassByValue(ArrayList arrayList)
     { 
